@@ -311,7 +311,7 @@ body {
 }
 
 
-/* Responsive Code For Mobile & Tablet */
+/* Responsive Navbar Code For Mobile & Tablet Starts From Here */
 @media screen and (min-width: 768px) {
     .navbar {
         display: flex;
@@ -344,7 +344,9 @@ body {
         display: none;
     }
 }
+/* Responsive Navbar Code For Mobile & Tablet Ends Here */
 
+/* Responsive Website Code For Mobile & Tablet Starts From Here */
 @media screen and (max-width: 768px) {
     .main-head h1{
         font-size: 30px;
@@ -429,3 +431,4 @@ body {
         text-align: center;
     }
 }
+/* Responsive Website Code For Mobile & Tablet Ends Here */
